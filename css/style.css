@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	height: 1506px;
+    width: 800px;
+    background:#F9CC9D;
+    margin: 0 auto;
+}
+.col-2-1{
+	height: 500px;
+	width: 50%;
+	float: left;
+}
+table{
+	width: 800px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid#000;
+    color: #6F0000;
+}
+
+tr{}
+td{
+	    border: 1px solid;
+}
